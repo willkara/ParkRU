@@ -1,0 +1,1256 @@
+{
+   "Lots":{
+      "Lot":[
+         {
+            "LotName":"Lot 01 (Camden)",
+            "LotLat":39.949512,
+            "LotLong":-75.121,
+            "LotAddress":"Rex Alley, Camden, NJ 08102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 02 (Camden)",
+            "LotLat":39.948395,
+            "LotLong":-75.119965,
+            "LotAddress":"518 Rex Alley, Camden, NJ 08102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 08 (Camden)",
+            "LotLat":39.94786,
+            "LotLong":-75.122986,
+            "LotAddress":"214 North 3rd Street, Camden, NJ 08102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 10",
+            "LotLat":40.49986,
+            "LotLong":-74.4491,
+            "LotAddress":"66 College Avenue, New Brunswick, NJ 08901, USA",
+            "Permits":"Faculty/Staff"
+         },
+         {
+            "LotName":"Lot 100",
+            "LotLat":40.525406,
+            "LotLong":-74.43738,
+            "LotAddress":"100 Joyce Kilmer Avenue, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 1",
+            "LotLat":40.499138,
+            "LotLong":-74.44554,
+            "LotAddress":"452-486 George Street, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 101",
+            "LotLat":40.521343,
+            "LotLong":-74.43745,
+            "LotAddress":"Avenue East, Piscataway Township, NJ 08854, USA",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter"
+         },
+         {
+            "LotName":"Lot 103",
+            "LotLat":40.52052,
+            "LotLong":-74.43248,
+            "LotAddress":"62 Road 3, Piscataway Township, NJ 08854, USA",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 104",
+            "LotLat":40.524624,
+            "LotLong":-74.43574,
+            "LotAddress":"62-64 Joyce Kilmer Avenue, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 105",
+            "LotLat":40.523987,
+            "LotLong":-74.43386,
+            "LotAddress":"62 Joyce Kilmer Avenue, Piscataway Township, NJ 08854, USA",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 106",
+            "LotLat":40.523045,
+            "LotLong":-74.43473,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 108",
+            "LotLat":40.51364,
+            "LotLong":-74.43417,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 102",
+            "LotLat":40.521343,
+            "LotLong":-74.43603,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 109",
+            "LotLat":40.51681,
+            "LotLong":-74.43091,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 11",
+            "LotLat":40.500084,
+            "LotLong":-74.450005,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 110",
+            "LotLat":40.515957,
+            "LotLong":-74.43108,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 111",
+            "LotLat":40.515385,
+            "LotLong":-74.433655,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 11A",
+            "LotLat":40.500305,
+            "LotLong":-74.4505,
+            "LotAddress":"Address Not Available",
+            "Permits":"Commuter Zone B|Commuter Zone C|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 12 (Camden)",
+            "LotLat":39.948124,
+            "LotLong":-75.123566,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 12",
+            "LotLat":40.499866,
+            "LotLong":-74.45172,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff "
+         },
+         {
+            "LotName":"Lot 13",
+            "LotLat":40.500618,
+            "LotLong":-74.45029,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 13 (Camden)",
+            "LotLat":39.94927,
+            "LotLong":-75.12324,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 12 (Lafayette Street)",
+            "LotLat":0.0,
+            "LotLong":0.0,
+            "LotAddress":"Address Not Available"
+         },
+         {
+            "LotName":"Lot 14",
+            "LotLat":40.500885,
+            "LotLong":-74.44839,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 14 (Camden)",
+            "LotLat":39.95,
+            "LotLong":-75.12298,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 14 (Lafayette Street)",
+            "LotLat":0.0,
+            "LotLong":0.0,
+            "LotAddress":"Address Not Available"
+         },
+         {
+            "LotName":"Lot 16",
+            "LotLat":40.501,
+            "LotLong":-74.44634,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 17",
+            "LotLat":40.50227,
+            "LotLong":-74.45019,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 19",
+            "LotLat":40.50262,
+            "LotLong":-74.448364,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 18",
+            "LotLat":40.502964,
+            "LotLong":-74.448845,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 18A",
+            "LotLat":40.502434,
+            "LotLong":-74.449326,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 2",
+            "LotLat":40.49792,
+            "LotLong":-74.44764,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 20",
+            "LotLat":40.505024,
+            "LotLong":-74.450226,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 22",
+            "LotLat":40.504383,
+            "LotLong":-74.450501,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 23",
+            "LotLat":40.504223,
+            "LotLong":-74.45196,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 26",
+            "LotLat":40.50186,
+            "LotLong":-74.45255,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 25",
+            "LotLat":40.50224,
+            "LotLong":-74.45181,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 27",
+            "LotLat":40.503296,
+            "LotLong":-74.45327,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 30",
+            "LotLat":40.50275,
+            "LotLong":-74.45339,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 32",
+            "LotLat":40.504017,
+            "LotLong":-74.453735,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 31",
+            "LotLat":40.50137,
+            "LotLong":-74.45077,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 33",
+            "LotLat":40.50571,
+            "LotLong":-74.45335,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 34",
+            "LotLat":40.50557,
+            "LotLong":-74.45269,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 35",
+            "LotLat":40.502975,
+            "LotLong":-74.451065,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 36",
+            "LotLat":40.505222,
+            "LotLong":-74.45454,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff"
+         },
+         {
+            "LotName":"Lot 37",
+            "LotLat":40.501953,
+            "LotLong":-74.44941,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 38",
+            "LotLat":40.504967,
+            "LotLong":-74.45445,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 4",
+            "LotLat":40.498524,
+            "LotLong":-74.447815,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 39",
+            "LotLat":40.50253,
+            "LotLong":-74.4468,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 49",
+            "LotLat":40.52333,
+            "LotLong":-74.46653,
+            "LotAddress":"152 Frelinghuysen Road, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 5",
+            "LotLat":40.498707,
+            "LotLong":-74.44799,
+            "LotAddress":"100 Hamilton Street, College Avenue Campus, Rutgers, The State University of New Jersey, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 48",
+            "LotLat":40.515034,
+            "LotLong":-74.460594,
+            "LotAddress":"100 Sutphen Road, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 50",
+            "LotLat":40.52186,
+            "LotLong":-74.47258,
+            "LotAddress":"190 Frelinghuysen Road, Piscataway Township, NJ 08854, USA",
+            "Permits":"Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 504A",
+            "LotLat":40.74083,
+            "LotLong":-74.177,
+            "LotAddress":"360 Doctor Martin Luther King Junior Boulevard, Rutgers University-Newark, Newark, NJ 07103, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 502",
+            "LotLat":40.74129,
+            "LotLong":-74.17274,
+            "LotAddress":"28-44 Bleeker Street, Rutgers University-Newark, Newark, NJ 07102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 504B",
+            "LotLat":40.74083,
+            "LotLong":-74.17651,
+            "LotAddress":"152 Warren Street, Rutgers University-Newark, Newark, NJ 07102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 505",
+            "LotLat":40.745506,
+            "LotLong":-74.17239,
+            "LotAddress":"55 University Avenue, Rutgers University-Newark, Newark, NJ 07102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 506",
+            "LotLat":40.744827,
+            "LotLong":-74.171906,
+            "LotAddress":"78 University Avenue, Rutgers University-Newark, Parking Deck 506, Newark, NJ 07102, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 24",
+            "LotLat":40.50429,
+            "LotLong":-74.45169,
+            "LotAddress":"Senior Street, Rutgers, The State University of New Jersey, College Avenue Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 507",
+            "LotLat":40.738804,
+            "LotLong":-74.17399,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 508",
+            "LotLat":40.73978,
+            "LotLong":-74.17708,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 509",
+            "LotLat":40.74633,
+            "LotLong":-74.173065,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 51",
+            "LotLat":40.52453,
+            "LotLong":-74.45749,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 509A",
+            "LotLat":40.746223,
+            "LotLong":-74.17216,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 510",
+            "LotLat":40.74018,
+            "LotLong":-74.17225,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 51A",
+            "LotLat":40.525974,
+            "LotLong":-74.46087,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 53",
+            "LotLat":40.52276,
+            "LotLong":-74.46504,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 51B",
+            "LotLat":40.525482,
+            "LotLong":-74.460396,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 54",
+            "LotLat":40.52516,
+            "LotLong":-74.4616,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 54A",
+            "LotLat":40.52595,
+            "LotLong":-74.46161,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 55",
+            "LotLat":40.52538,
+            "LotLong":-74.465706,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident"
+         },
+         {
+            "LotName":"Lot 53A",
+            "LotLat":40.52027,
+            "LotLong":-74.463165,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 56",
+            "LotLat":40.525288,
+            "LotLong":-74.46446,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 57A",
+            "LotLat":40.524998,
+            "LotLong":-74.463295,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 57B",
+            "LotLat":40.52488,
+            "LotLong":-74.46296,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 57C",
+            "LotLat":40.524376,
+            "LotLong":-74.4625,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 58",
+            "LotLat":40.525608,
+            "LotLong":-74.46642,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 58A",
+            "LotLat":40.52593,
+            "LotLong":-74.46677,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 58B",
+            "LotLat":40.526203,
+            "LotLong":-74.46735,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 58C",
+            "LotLat":40.527393,
+            "LotLong":-74.46886,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 59",
+            "LotLat":40.51846,
+            "LotLong":-74.45843,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 6",
+            "LotLat":40.49868,
+            "LotLong":-74.44982,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff "
+         },
+         {
+            "LotName":"Lot 60A",
+            "LotLat":40.52155,
+            "LotLong":-74.459274,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 60B",
+            "LotLat":40.521957,
+            "LotLong":-74.45901,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 61",
+            "LotLat":40.52616,
+            "LotLong":-74.458626,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 611",
+            "LotLat":40.51279,
+            "LotLong":-74.46368,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 63",
+            "LotLat":40.523563,
+            "LotLong":-74.454605,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 62",
+            "LotLat":40.527008,
+            "LotLong":-74.45701,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 63A",
+            "LotLat":40.52296,
+            "LotLong":-74.45603,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 63C",
+            "LotLat":40.523495,
+            "LotLong":-74.45396,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 64",
+            "LotLat":40.52059,
+            "LotLong":-74.46037,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 659",
+            "LotLat":40.519382,
+            "LotLong":-74.45483,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 65A",
+            "LotLat":40.518658,
+            "LotLong":-74.4557,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident"
+         },
+         {
+            "LotName":"Lot 65C",
+            "LotLat":40.519592,
+            "LotLong":-74.4562,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident"
+         },
+         {
+            "LotName":"Lot 65D",
+            "LotLat":40.519577,
+            "LotLong":-74.45698,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident"
+         },
+         {
+            "LotName":"Lot 65B",
+            "LotLat":40.519993,
+            "LotLong":-74.454926,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident"
+         },
+         {
+            "LotName":"Lot 66A",
+            "LotLat":40.520214,
+            "LotLong":-74.45385,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident"
+         },
+         {
+            "LotName":"Lot 67A",
+            "LotLat":40.52022,
+            "LotLong":-74.45692,
+            "LotAddress":"Address Not Available",
+            "Permits":"Resident"
+         },
+         {
+            "LotName":"Lot 67",
+            "LotLat":40.521572,
+            "LotLong":-74.457466,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 68",
+            "LotLat":40.524105,
+            "LotLong":-74.459946,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 69",
+            "LotLat":40.487373,
+            "LotLong":-74.43791,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff"
+         },
+         {
+            "LotName":"Lot 7",
+            "LotLat":40.499294,
+            "LotLong":-74.45066,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff "
+         },
+         {
+            "LotName":"Lot 700",
+            "LotLat":40.483345,
+            "LotLong":-74.434814,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 70",
+            "LotLat":40.48393,
+            "LotLong":-74.4371,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C"
+         },
+         {
+            "LotName":"Lot 702",
+            "LotLat":40.48559,
+            "LotLong":-74.43632,
+            "LotAddress":"Chapel Drive, Rutgers University - Douglass Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 709",
+            "LotLat":40.48005,
+            "LotLong":-74.44158,
+            "LotAddress":"157-167 Nichol Avenue, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 707",
+            "LotLat":40.480885,
+            "LotLong":-74.44059,
+            "LotAddress":"91-99 Dudley Road, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 711",
+            "LotLat":40.48116,
+            "LotLong":-74.43041,
+            "LotAddress":"33 Dudley Road, Rutgers University - Douglass Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 717",
+            "LotLat":40.48447,
+            "LotLong":-74.436035,
+            "LotAddress":"100 George Street, Rutgers University - Douglass Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 71",
+            "LotLat":40.482334,
+            "LotLong":-74.429565,
+            "LotAddress":"2-12 Cobb Road, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 71A",
+            "LotLat":40.481403,
+            "LotLong":-74.42903,
+            "LotAddress":"Ryders Lane, Rutgers University - Douglass Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Faculty/Staff|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 72",
+            "LotLat":40.48502,
+            "LotLong":-74.435745,
+            "LotAddress":"100 George Street, Rutgers University - Douglass Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 73",
+            "LotLat":40.48669,
+            "LotLong":-74.43336,
+            "LotAddress":"Memorial Parkway, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 74",
+            "LotLat":40.486217,
+            "LotLong":-74.430336,
+            "LotAddress":"Gibbons Drive, Rutgers University - Douglass Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 76",
+            "LotLat":40.480537,
+            "LotLong":-74.432076,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 74A",
+            "LotLat":40.48585,
+            "LotLong":-74.43228,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 75",
+            "LotLat":40.48166,
+            "LotLong":-74.43224,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 78",
+            "LotLat":40.48252,
+            "LotLong":-74.43566,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 79",
+            "LotLat":40.48431,
+            "LotLong":-74.433586,
+            "LotAddress":"Address Not Available",
+            "Permits":"Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 77",
+            "LotLat":40.485603,
+            "LotLong":-74.43893,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 79A",
+            "LotLat":40.484768,
+            "LotLong":-74.43341,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident"
+         },
+         {
+            "LotName":"Lot 8",
+            "LotLat":40.49919,
+            "LotLong":-74.448586,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff "
+         },
+         {
+            "LotName":"Lot 80",
+            "LotLat":40.4812,
+            "LotLong":-74.42755,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 803",
+            "LotLat":40.47329,
+            "LotLong":-74.42524,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 804",
+            "LotLat":40.47406,
+            "LotLong":-74.4203,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 82",
+            "LotLat":40.48337,
+            "LotLong":-74.43092,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Lot C|Commuter Zone D|Commuter Lot L|Night Commuter|Resident"
+         },
+         {
+            "LotName":"Lot 81",
+            "LotLat":40.48207,
+            "LotLong":-74.43097,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 83",
+            "LotLat":40.477165,
+            "LotLong":-74.42632,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 84",
+            "LotLat":40.478416,
+            "LotLong":-74.42453,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 86",
+            "LotLat":40.483013,
+            "LotLong":-74.43822,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 87",
+            "LotLat":40.482166,
+            "LotLong":-74.43942,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 88",
+            "LotLat":40.479984,
+            "LotLong":-74.429,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 88 College Avenue",
+            "LotLat":40.500813,
+            "LotLong":-74.450096,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff"
+         },
+         {
+            "LotName":"Lot 89",
+            "LotLat":40.480865,
+            "LotLong":-74.43923,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 9",
+            "LotLat":40.499477,
+            "LotLong":-74.447426,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff "
+         },
+         {
+            "LotName":"Lot 90",
+            "LotLat":40.479412,
+            "LotLong":-74.43478,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 92",
+            "LotLat":40.479855,
+            "LotLong":-74.43483,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 91",
+            "LotLat":40.48164,
+            "LotLong":-74.43621,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot 94",
+            "LotLat":40.472355,
+            "LotLong":-74.43686,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 95",
+            "LotLat":40.479618,
+            "LotLong":-74.4443,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 96A",
+            "LotLat":40.48002,
+            "LotLong":-74.426315,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 96",
+            "LotLat":40.480415,
+            "LotLong":-74.42757,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 98A",
+            "LotLat":40.479053,
+            "LotLong":-74.43817,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 98B",
+            "LotLat":40.47731,
+            "LotLong":-74.437706,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter",
+            "TimeGroup":"(6PM - 2AM)"
+         },
+         {
+            "LotName":"Lot 99A",
+            "LotLat":40.47726,
+            "LotLong":-74.43208,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 99C",
+            "LotLat":40.477734,
+            "LotLong":-74.42845,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 99B",
+            "LotLat":40.477524,
+            "LotLong":-74.42975,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot 97",
+            "LotLat":40.478687,
+            "LotLong":-74.43593,
+            "LotAddress":"Address Not Available",
+            "Permits":"Commuter Zone A|Commuter Zone B|Commuter Zone C|Commuter Zone D|Commuter Zone L|Night Commuter|Resident"
+         },
+         {
+            "LotName":"Lot 99D",
+            "LotLat":40.47638,
+            "LotLong":-74.42888,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Resident"
+         },
+         {
+            "LotName":"Lot Behind ASB II",
+            "LotLat":40.479454,
+            "LotLong":-74.42498,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Corwins A",
+            "LotLat":40.481277,
+            "LotLong":-74.440605,
+            "LotAddress":"Address Not Available",
+            "Permits":"Faculty/Staff|Commuter Zone A"
+         },
+         {
+            "LotName":"Lot Green Lot - RAC",
+            "LotLat":40.5258,
+            "LotLong":-74.43994,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Golf Course Parking",
+            "LotLat":40.52073,
+            "LotLong":-74.4746,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Imani Park",
+            "LotLat":40.52044,
+            "LotLong":-74.42964,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Johnson Apartments Parking",
+            "LotLat":40.527332,
+            "LotLong":-74.4661,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Golf Course Maintenance",
+            "LotLat":40.514557,
+            "LotLong":-74.467995,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Katzenbach",
+            "LotLat":40.482765,
+            "LotLong":-74.431564,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Law Center",
+            "LotLat":40.478836,
+            "LotLong":-74.426056,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Nichols Apartments Parking",
+            "LotLat":40.528408,
+            "LotLong":-74.46668,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot OFF CAMPUS",
+            "LotLat":40.487644,
+            "LotLong":-74.43895,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot P",
+            "LotLat":40.473732,
+            "LotLong":-74.43469,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Public Safety B",
+            "LotLat":40.488354,
+            "LotLong":-74.43938,
+            "LotAddress":"Address Not Available",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Scarlet Lot-RAC",
+            "LotLat":40.52392,
+            "LotLong":-74.44147,
+            "LotAddress":"Honors Plaza, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Rutgers Club",
+            "LotLat":40.506027,
+            "LotLong":-74.45421,
+            "LotAddress":"College Avenue \u0026 George Street, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Sears",
+            "LotLat":40.48115,
+            "LotLong":-74.425224,
+            "LotAddress":"Labor Center Way, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot UMDNJ Parking",
+            "LotLat":40.527096,
+            "LotLong":-74.47017,
+            "LotAddress":"647 Hoes Lane West, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Seminary",
+            "LotLat":40.502903,
+            "LotLong":-74.44795,
+            "LotAddress":"8 Bishop Place, Rutgers, The State University of New Jersey, College Avenue Campus, New Brunswick, NJ 08901, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Russell Apts Parking",
+            "LotLat":40.526295,
+            "LotLong":-74.46471,
+            "LotAddress":"785 Bevier Road, Russell Apartments, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Yellow Lot - RAC",
+            "LotLat":40.527393,
+            "LotLong":-74.43849,
+            "LotAddress":"100 Joyce Kilmer Avenue, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot Yurcak Soccer Field",
+            "LotLat":40.51441,
+            "LotLong":-74.45986,
+            "LotAddress":"100 Sutphen Road, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"Lot West Lot",
+            "LotLat":40.513615,
+            "LotLong":-74.46744,
+            "LotAddress":"Sutphen Road, Piscataway Township, NJ 08854, USA",
+            "Permits":"Permit Information Not Available"
+         },
+         {
+            "LotName":"City Lot 11",
+            "LotLat":39.949028,
+            "LotLong":-75.1292,
+            "LotAddress":"11 Cooper Street, Camden, NJ 08102, USA",
+            "Permits":"Permit Information Not Available"
+         }
+      ]
+   }
+}

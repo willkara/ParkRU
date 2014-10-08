@@ -1,0 +1,18 @@
+{
+    "Lots": {
+        "Lot": [
+            {
+                "LotID": 1,
+                "LotName": "Lot 51",
+                "Latitude": 12345,
+                "Longitude": 12345
+            },
+            {
+                "LotID": 2,
+                "LotName": "Lot 51A",
+                "Latitude": 12345,
+                "Longitude": 12345
+            }
+        ]
+    }
+}

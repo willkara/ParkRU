@@ -1,0 +1,27 @@
+{
+    "Locations": {
+        "Location": [
+            {
+                "LocationName": "Scott Hall",
+                "Description": "Scott Hall was erected in 1963 and was named after Austin Scott (1848-1922). Scott was a professor of history at Rutgers College. From 1891-1906 Austin Scott was the President of Rutgers College. .Source: Catalouge of Buildings and Place Names at Rutgers.",
+                "Latitude": 40.499745,
+                "Longitude": -74.447787,
+                "Lots": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "LocationName": "WOW",
+                "Latitude": 12345,
+                "Longitude": 12345,
+                "Lots": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        ]
+    }
+}
+

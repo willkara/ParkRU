@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--
+The MIT License
+
+Copyright 2014 willkara.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+        <link rel="stylesheet" href="static/css/main.css"/>
+
+        <script type = "text/javascript" src="static/js/scripts.js"></script>
+        <script type ="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+
+
+        <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+        <script>
+            // get the viz.json url from the CartoDB UI
+            // - click on visualize
+            // - create new visualization
+            // - make visualization public
+            // - click on publish
+            // - go to API tab
+            window.onload = function() {
+                cartodb.createVis('map-canvas', 'http://willkara.cartodb.com/api/v2/viz/6bd36920-7c76-11e3-991c-0e49973114de/viz.json');
+            }
+        </script>
+    </head>
+    <body>
+        <div id="map-canvas" style="height: 600px;width: 100%;margin-top:25px"></div>
+            
+        </div>    
+
+    </body>
+    <!--[if lte IE 8]>
+      <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.ie.css" />
+    <![endif]-->
+
+</html>

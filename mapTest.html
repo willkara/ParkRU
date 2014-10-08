@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+
+
+        <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+        <!--[if lte IE 8]>
+          <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.ie.css" />
+        <![endif]-->
+
+
+        <style>#map {
+                width:600px;
+                height:400px;
+            }</style>
+        <script type = "text/javascript" src="static/jquery.min.js"></script>
+
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+        <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                var
+                        overlay, cartoDBImageMapType, map,
+                        user = "willkara",
+                        table = "locs",
+                        table1 = "lotttt",
+                        radius = 350,
+                        radDeg = 0,
+                        zoom = 14,
+                        lat = 40.522446,
+                        lng = -74.45574;
+                // Define the query
+                var sql = "SELECT * FROM " + table1 +
+                        " WHERE ST_Intersects( the_geom, ST_Buffer( ST_SetSRID('POINT(" + lng + " " + lat + ")'::geometry , 4326)"
+
+                // And the layer
+                var cartoDBLayer = {
+                    getTileUrl: function(coord, zoom) {
+                        return "https://" + user + ".cartodb.com/tiles/" + table1 + "/" + zoom + "/" + coord.x + "/" + coord.y + ".png?sql=" + sql + "," + radDeg + "))";
+                    },
+                    tileSize: new google.maps.Size(256, 256)
+
+                };
+
+                var resetLayer = function() {
+                    cartoDBImageMapType = new google.maps.ImageMapType(cartoDBLayer);
+
+                    map.overlayMapTypes.insertAt(0, cartoDBImageMapType);
+                    map.overlayMapTypes.pop(1);
+                };
+
+
+                var drawCircle = function() {
+
+                    if (overlay)
+                        overlay.setMap(null);
+
+                    overlay = new google.maps.Circle({
+                        map: map,
+                        center: new google.maps.LatLng(lat, lng),
+                        radius: radius,
+                        strokeColor: "#FF0000",
+                        strokeOpacity: 0.35,
+                        strokeWeight: 3,
+                        fillColor: "#FF0000",
+                        fillOpacity: 0.050,
+                    });
+                }
+
+                var updateRadDeg = function(dist) {
+
+                    var
+                            deg = 180,
+                            brng = deg * Math.PI / 180,
+                            dist = dist / 6371000,
+                            lat1 = lat * Math.PI / 180,
+                            lon1 = lng * Math.PI / 180;
+
+                    var lat2 = Math.asin(Math.sin(lat1) * Math.cos(dist) +
+                            Math.cos(lat1) * Math.sin(dist) * Math.cos(brng));
+
+                    var lon2 = lon1 + Math.atan2(Math.sin(brng) * Math.sin(dist) * Math.cos(lat1), Math.cos(dist) -
+                            Math.sin(lat1) * Math.sin(lat2));
+
+                    if (isNaN(lat2) || isNaN(lon2))
+                        return null;
+
+                    radDeg = lat - (lat2 * 180 / Math.PI);
+                }
+
+                // Find out deg radius
+                updateRadDeg(radius);
+                $(function() {
+
+                    // Define the basic map options
+                    var cartodbMapOptions = {
+                        zoom: zoom,
+                        disableDefaultUI: true,
+                        center: new google.maps.LatLng(lat, lng),
+                        mapTypeId: google.maps.MapTypeId.SATELLITE
+                    };
+
+                    // Initialize the map
+                    map = new google.maps.Map(document.getElementById("map"), cartodbMapOptions);
+
+                    // Define the map style
+                    var mapStyle = [{
+                            stylers: [{saturation: -65}, {gamma: 1.52}]}, {
+                            featureType: "administrative", stylers: [{saturation: -95}, {gamma: 2.26}]}, {
+                            featureType: "water", elementType: "labels", stylers: [{visibility: "off"}]}, {
+                            featureType: "administrative.locality", stylers: [{visibility: 'off'}]}, {
+                            featureType: "road", stylers: [{visibility: "simplified"}, {saturation: -99}, {gamma: 2.22}]}, {
+                            featureType: "poi", elementType: "labels", stylers: [{visibility: "off"}]}, {
+                            featureType: "road.arterial", stylers: [{visibility: 'off'}]}, {
+                            featureType: "road.local", elementType: "labels", stylers: [{visibility: 'off'}]}, {
+                            featureType: "transit", stylers: [{visibility: 'off'}]}, {
+                            featureType: "road", elementType: "labels", stylers: [{visibility: 'off'}]}, {
+                            featureType: "poi", stylers: [{saturation: -55}]
+                        }];
+
+                    // Set the style
+                    map.setOptions({styles: mapStyle});
+
+                    drawCircle();
+
+                    // Add the CartoDB tiles
+                    map.overlayMapTypes.insertAt(0, new google.maps.ImageMapType(cartoDBLayer));
+
+                    // Define the mouse bindings
+                    $('.distance').mouseup(function() {
+                        radius = parseInt($(this).val());
+                        updateRadDeg(radius);
+                        resetLayer();
+                        drawCircle();
+                    });
+
+                    $('.distance').change(function() {
+                        radius = parseInt($(this).val());
+                        updateRadDeg(radius);
+                        drawCircle();
+                    });
+
+                });
+            });
+        </script>
+
+    </head>
+    <body>
+        <input type="range" class="distance" min="0" max="2000" step="50" value="350" />
+
+        <div id="map">
+
+        </div>    
+    </body>
+</html>
